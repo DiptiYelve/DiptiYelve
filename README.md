@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DiptiYelve.
-- 👀 I’m interested in coding.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 you can reach to me by my email ID: yelve.dipti75@gmail.com
