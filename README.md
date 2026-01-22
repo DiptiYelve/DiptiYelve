@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiptiYelve.
-- 🌱 N Stack developer, with skills like restify, mysql, sql server, etc
+- 🌱 MERN Stack developer, with skills like restify, mysql, sql server, etc
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can reach to me by my email ID: yelve.dipti75@gmail.com
 - 😄 Pronouns: she/her
